@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15431" started-at="2019-05-05T17:08:03Z" finished-at="2019-05-05T17:08:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15431" started-at="2019-05-05T17:08:03Z" finished-at="2019-05-05T17:08:18Z">
+      <class name="tests.Searchanything">
+        <test-method status="PASS" signature="beforeTestStart()[pri:0, instance:tests.Searchanything@5034c75a]" name="beforeTestStart" is-config="true" duration-ms="12844" started-at="2019-05-05T13:08:03Z" finished-at="2019-05-05T13:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestStart -->
+        <test-method status="PASS" signature="Searchoption()[pri:0, instance:tests.Searchanything@5034c75a]" name="Searchoption" duration-ms="238" started-at="2019-05-05T13:08:16Z" finished-at="2019-05-05T13:08:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchoption -->
+        <test-method status="PASS" signature="closewindow()[pri:0, instance:tests.Searchanything@5034c75a]" name="closewindow" is-config="true" duration-ms="2340" started-at="2019-05-05T13:08:16Z" finished-at="2019-05-05T13:08:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closewindow -->
+      </class> <!-- tests.Searchanything -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
